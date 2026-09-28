@@ -34,7 +34,7 @@ export function SiteFooter() {
         <div>
           <h2 className="text-sm font-semibold">معرض بغداد</h2>
           <address className="mt-4 space-y-2 text-sm not-italic leading-relaxed text-primary-foreground/70">
-            <p>شارع الصناعة، مجمع التقنية</p>
+            <p>الناصرية </p>
             <p>السبت — الخميس</p>
             <p>9:00 ص — 8:00 م</p>
           </address>

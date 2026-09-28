@@ -73,7 +73,7 @@ export function ProductCard({ product }: { product: Product }) {
             </button>
           ) : (
             <a
-              href="tel:+9647800000000"
+              href={"tel:+9647801611665"}
               aria-label={`اتصل للاستفسار عن سعر ${product.name}`}
               className="flex size-11 items-center justify-center rounded-xl bg-primary text-primary-foreground transition hover:bg-accent hover:text-primary"
             >

@@ -77,7 +77,7 @@ export function Hero() {
           </span>
           <div>
             <p className="text-sm font-bold">متوفر الآن</p>
-            <p className="text-xs text-muted-foreground">شحن فوري من بغداد</p>
+            <p className="text-xs text-muted-foreground">شحن فوري من الناصرية</p>
           </div>
         </div>
 
