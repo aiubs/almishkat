@@ -14,7 +14,7 @@ export function GamingCta() {
             اختر ميزانيتك وألعابك المفضلة، وفريقنا يركّب ويختبر التجميعة قبل وصولها إليك.
           </p>
           <a
-            href="tel:+9647800000000"
+            href="tel:+9647801611665"
             className="mt-8 inline-flex h-12 items-center gap-3 rounded-xl bg-primary px-6 text-sm font-medium text-primary-foreground transition hover:bg-primary/90"
           >
             تحدث مع خبير التجميع
