@@ -13,8 +13,10 @@ export default function Home() {
       <SiteHeader />
       <main>
         <Hero />
-        <FeaturesStrip />
+        {/* صعدنا التصنيفات هنا حتى تظهر أول شي للزبون */}
         <Categories />
+        {/* شريط الميزات صار جوة التصنيفات */}
+        <FeaturesStrip />
         <BestSellers />
         <GamingCta />
       </main>
